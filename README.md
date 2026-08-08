@@ -1,4 +1,4 @@
-![FNAF Save Editor Banner](banner.png)
+![FNAF Save Editor Banner](image/banner.png)
 
 # FNAF Save Manager 
 
