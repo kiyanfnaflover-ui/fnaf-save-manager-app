@@ -25,8 +25,8 @@ We are actively working on expanding the capabilities of the FNAF Save Manager. 
 ---
 
 ## 🛠️ Built With
-* [Python](https://www.python.org/) - Core logic and save parsing
-* [PySide6](https://doc.qt.io/qtforpython-6/) - UI Framework
+* ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) - Core logic and save parsing
+* ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white) - UI Framework
 
 ---
 
