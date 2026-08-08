@@ -1,0 +1,30 @@
+FNAF Save Manager v3
+Created by: K_F_
+
+A desktop utility for editing save data of Five Nights at Freddy's 1-6
+and Ultimate Custom Night. Built with Python and PySide6 (Qt).
+
+Features:
+  - Auto-scans AppData\Roaming\MMFApplications for save files
+  - FNAF 1-4: edit current night and unlock stars
+  - Sister Location: night, keycard and star unlocks
+  - Pizzeria Simulator: night, money, tokens, and CERT certificates
+  - UCN: high score, Faz-Coins and bonus unlocks
+  - Create backups before saving
+  - Reload values from disk at any time
+
+v3.0 changes:
+  - Compact professional dark theme, no emoji
+  - Animated game launcher / carousel navigation with smooth scaling
+  - Restructured editor with clear grouped sections
+  - Status feedback instead of popup dialogs
+  - Cleaner game navigation with hover/selected states
+  - Safer save writes with automatic value validation
+
+Navigation:
+  - Use the mouse wheel, click, or the Arrow Up / Arrow Down keys
+    to move through the games in the carousel.
+
+Notes:
+  - Back up before editing (Create Backup button).
+  - Apply changes while the game is closed.
