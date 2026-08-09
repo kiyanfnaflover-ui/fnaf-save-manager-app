@@ -1,4 +1,4 @@
-![FNAF Save Manager Banner](images/banner1.png)
+![FNAF Save Manager Banner](image/banner1.png)
 # 🐻 FNAF Save Manager & Editor
 
 **Created by:** K_F_
